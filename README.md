@@ -1,7 +1,5 @@
 # Weekly Conversions Prediction
 
-### Results from notebooks 11–14
-
 CSA Havas technical exercise — exploratory analysis, temporal structure, multiple linear regression, and model comparison for weekly conversions based on advertising investment.
 
 The goal is to estimate `Conversions` from weekly investment in two owned channels (`Spend Channel 1` and `Spend Channel 2`) and estimated competitor investment (`Spend Competitors`), while also evaluating whether calendar variables add explanatory information.
