@@ -263,8 +263,7 @@ Tree-based models occupy the top seven positions, with ensembles such as `Gradie
 
 ## Reproducibility
 
-- **Python 3.13** (tested with 3.13.15).
-- Main dependencies: `pandas`, `numpy`, `siuba`, `seaborn`, `matplotlib`, `scipy`, `scikit-learn`, `statsmodels`, `lazypredict`, and `ipywidgets`.
+- **Python 3.13**
 
 ```bash
 # Create and activate the virtual environment
